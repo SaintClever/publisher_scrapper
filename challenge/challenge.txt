@@ -1,0 +1,16 @@
+Using python, scrape a set of product attributes (see the required attributes below) from this website.
+
+https://www.barnesandnoble.com/w/effective-python-brett-slatkin/1130203296?ean=9780134853987
+
+- ISBN-13
+- Publisher
+- Publication Date
+- Series
+- Edition Description
+- Pages
+- Sales Rank
+- Product Width
+- Product Height
+- Product Depth
+- Price
+Write the data into a database.
