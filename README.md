@@ -1,8 +1,11 @@
 # barnesandnoble.com publisher scrapper
 
+![publisher_scrapper](assets/publisher_scrapper.gif)
+
+
 *- Only for books with 8 rows of data (no less or no more)*\
 *- Chrome webdriver must be installed with the same version of chrome installed*\
-*- You can more than one link, simply add a comma after every link*
+*- You can add more than one link, simply add a comma after every link*
 
 1. Run: python main.py
 2. insert book link... ex: https://www.barnesandnoble.com/w/effective-python-brett-slatkin/1130203296?ean=9780134853987\
